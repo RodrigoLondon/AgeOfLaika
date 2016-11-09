@@ -14,6 +14,7 @@
 		183C20011B6B803C009B8FA8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 183C1FFF1B6B803C009B8FA8 /* LaunchScreen.storyboard */; };
 		183C200C1B6B803D009B8FA8 /* Age_of_LaikaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183C200B1B6B803D009B8FA8 /* Age_of_LaikaTests.swift */; };
 		183C20171B6B803D009B8FA8 /* Age_of_LaikaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183C20161B6B803D009B8FA8 /* Age_of_LaikaUITests.swift */; };
+		183C20251B6B822A009B8FA8 /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 183C20241B6B822A009B8FA8 /* AgeOfLaika.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		183C20121B6B803D009B8FA8 /* Age of LaikaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Age of LaikaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		183C20161B6B803D009B8FA8 /* Age_of_LaikaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Age_of_LaikaUITests.swift; sourceTree = "<group>"; };
 		183C20181B6B803D009B8FA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		183C20241B6B822A009B8FA8 /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				183C1FF81B6B803C009B8FA8 /* ViewController.swift */,
 				183C1FFA1B6B803C009B8FA8 /* Main.storyboard */,
 				183C1FFD1B6B803C009B8FA8 /* Assets.xcassets */,
+				183C20241B6B822A009B8FA8 /* AgeOfLaika.jpg */,
 				183C1FFF1B6B803C009B8FA8 /* LaunchScreen.storyboard */,
 				183C20021B6B803C009B8FA8 /* Info.plist */,
 			);
@@ -229,6 +232,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				183C20011B6B803C009B8FA8 /* LaunchScreen.storyboard in Resources */,
+				183C20251B6B822A009B8FA8 /* AgeOfLaika.jpg in Resources */,
 				183C1FFE1B6B803C009B8FA8 /* Assets.xcassets in Resources */,
 				183C1FFC1B6B803C009B8FA8 /* Main.storyboard in Resources */,
 			);
